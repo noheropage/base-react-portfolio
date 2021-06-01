@@ -13,7 +13,7 @@ class Portfolio extends Component {
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
+            <Zmage alt={projects.title} src={projectImage}/>
             <div style={{ textAlign: "center" }}>{projects.title}</div>
           </div>
         </div>
@@ -29,7 +29,7 @@ class Portfolio extends Component {
 
               <div
                 id="portfolio-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
+                className="bgrid-quarters s-bgrid-thirds cf col-4"
               >
                 {projects}
               </div>

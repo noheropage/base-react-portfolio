@@ -3,19 +3,18 @@
     "name":"Page Black",
     "description":"I am a registered-nurse turned web-developer, looking to combine my health-knowledge with my love of technology to ideally make the world at least a bit better",
     "image":"profilepic.jpg",
-    "bio":"If this last year has taught us anything, it's that we need more medical professionals in every industry, not just healthcare. I'm excited to begin my transition into the world of computer science and continue to developing as a developer. Most of my work has been done with Javascript and React, though I've also dabbled with Python and C#",
+    "bio":"If this last year has taught us anything, it's that we need more medical professionals in every industry, not just healthcare. I'm excited to begin my transition into the world of computer science and continue developing my skills within more professional settings. I have experience with Javascript, React, Node/Express, JQuery, MySQL, NoSQL, Python, and even a bit of C#.",
     "contactmessage":"I'd love to hear from you!",
     "email": "mursepage@gmail.com",
     "phone": "217-357-1832",
     "github":"https://github.com/noheropage",
-    "linkedIn":"https://www.linkedin.com/in/page-black",
     "address":{
       "city":"Seattle",
       "state":"WA",
       "zip": "98115"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
@@ -55,7 +54,7 @@
         "company":"Hotlink HR",
         "title":"Developer",
         "years":"June 2021 - Present",
-        "description":"Complete reconfiguration of the new employee onboarding process and portal, all done with a ASP.net framework"
+        "description":"Complete reconfiguration of the new employee onboarding process and portal, all done with a ASP.NET framework"
       },
       {
         "company":"Swedish Medical Center",
