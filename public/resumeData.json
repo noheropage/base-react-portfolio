@@ -1,46 +1,35 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Page Black",
+    "description":"I am a registered-nurse turned web-developer, looking to combine my health-knowledge with my love of technology to ideally make the world at least a bit better",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"If this last year has taught us anything, it's that we need more medical professionals in every industry, not just healthcare. I'm excited to begin my transition into the world of computer science and continue to developing as a developer. Most of my work has been done with Javascript and React, though I've also dabbled with Python and C#",
+    "contactmessage":"I'd love to hear from you!",
+    "email": "mursepage@gmail.com",
+    "phone": "217-357-1832",
+    "github":"https://github.com/noheropage",
+    "linkedIn":"https://www.linkedin.com/in/page-black",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98115"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/noheropage",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/page-black",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/noheropage",
         "className":"fa fa-github"
       }
     ]
@@ -49,30 +38,30 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Washington ",
+        "degree":"Full Stack Coding Course",
+        "graduated":"June 2021",
+        "description":"Six month \"bootcamp\" styled program with multiple solo and group projects, using: Javascript, React, Node, Express, MySQL, & NoSQL. Served as Project Manager for two group-projects containing four other students."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Washington",
+        "degree":"Bachelor of Science in Nursing",
+        "graduated":"June 2016",
+        "description":"Nursing school with an emphasis on critical thinking, leadership, and research. During my time here I wrote the position paper on Workplace Violence for the Washington State Nurses Association"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Hotlink HR",
+        "title":"Developer",
+        "years":"June 2021 - Present",
+        "description":"Complete reconfiguration of the new employee onboarding process and portal, all done with a ASP.net framework"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Swedish Medical Center",
+        "title":"Registered Nurse",
+        "years":"July 2015 - October 2020",
+        "description":"Bedside nurse in a fast-paced post-operative and medical-unit. Collaberate with a multidisciplinary team to delivery high-quality, evidence based interventions to adult patients. Participated and served as \"tech guru\" for multiple committees and programs, including the Evidence Based Practice Committee and Unit Based Education Champion"
       }
     ],
     "skills":[
@@ -109,76 +98,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Let's +Venture",
+        "category":"React app to help like-minded and similarly skilled outdoorsy folks find each other, find new climbs, and find new friends.",
+        "image":"letsAddVenture.jpg",
+        "url":"https://github.com/noheropage/lets-add-venture"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Budget Tracker",
+        "category":"A simple budget tracker with offline and online functionality through IndexDB",
+        "image":"budgetTracker.png",
+        "url":"https://blooming-basin-50325.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Tech Blog",
+        "category":"Sequelize-based website allowing users to share information",
+        "image":"techBlog.png",
+        "url":"https://secret-lowlands-04347.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Workout Tracker",
+        "category":"Using Mongo for tracking and graphing workout data",
+        "image":"workout.png",
+        "url":"https://enigmatic-ocean-16729.herokuapp.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"GermPod",
+        "category":"Social platform to assist in creating Germ Pods to maximize socialization while minimizing the risk of contracting communicable diseases",
+        "image":"GermPod.png",
+        "url":"https://hidden-island-12801.herokuapp.com/"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Okie Dokie Karaoke",
+        "category":"Places youtube music videos and the lyrics in one place for karaoke practice or spontaneous singing performances anywhere you go",
+        "image":"karaoke.png",
+        "url":"https://rikioh.github.io/room3miniproject1/"
       }
     ]
   }
