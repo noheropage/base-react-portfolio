@@ -3,7 +3,7 @@
     "name":"Page Black",
     "description":"I am a registered-nurse turned web-developer, looking to combine my health-knowledge with my love of technology to ideally make the world at least a bit better",
     "image":"profilepic.jpg",
-    "bio":"If this last year has taught us anything, it's that we need more medical professionals in every industry, not just healthcare. I'm excited to begin my transition into the world of computer science and continue developing my skills within more professional settings. I have experience with Javascript, React, Node/Express, JQuery, MySQL, NoSQL, Python, and even a bit of C#.",
+    "bio":"If this last year has taught us anything, it's that we need more medical knowledge in every industry, not just healthcare. I'm excited to begin my transition into the world of computer science and continue developing my skills within more professional settings. I have experience with Javascript, React, Node/Express, JQuery, MySQL, NoSQL, Python, and C#.",
     "contactmessage":"I'd love to hear from you!",
     "email": "mursepage@gmail.com",
     "phone": "217-357-1832",
@@ -46,7 +46,7 @@
         "school":"University of Washington",
         "degree":"Bachelor of Science in Nursing",
         "graduated":"June 2016",
-        "description":"Nursing school with an emphasis on critical thinking, leadership, and research. During my time here I wrote the position paper on Workplace Violence for the Washington State Nurses Association"
+        "description":"Emphasis on critical thinking, leadership, and research. Updated the Position Paper on Workplace Violence for the Washington State Nurses Association"
       }
     ],
     "work":[
@@ -54,50 +54,20 @@
         "company":"Hotlink HR",
         "title":"Developer",
         "years":"June 2021 - Present",
-        "description":"Complete reconfiguration of the new employee onboarding process and portal, all done with a ASP.NET framework"
+        "description":"Complete reconfiguration of the new employee onboarding process via the ASP.NET framework"
       },
       {
         "company":"Swedish Medical Center",
         "title":"Registered Nurse",
         "years":"July 2015 - October 2020",
-        "description":"Bedside nurse in a fast-paced post-operative and medical-unit. Collaberate with a multidisciplinary team to delivery high-quality, evidence based interventions to adult patients. Participated and served as \"tech guru\" for multiple committees and programs, including the Evidence Based Practice Committee and Unit Based Education Champion"
-      }
-    ],
-    "skills":[
-      {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "description":"Bedside nurse in a fast-paced post-operative and medical-unit. Collaberated with a multidisciplinary team to delivery high-quality, evidence based interventions to adult patients. Served as \"tech guru\" for multiple committees and programs, including the Evidence Based Practice Committee and as a Unit Based Education Champion. Developed SharePoint and Yammer sites for multiple groups. Guided other bedside nurses through software and device updates and changes"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Let's +Venture",
+        "title":"Let's Venture",
         "category":"React app to help like-minded and similarly skilled outdoorsy folks find each other, find new climbs, and find new friends.",
         "image":"letsAddVenture.jpg",
         "url":"https://github.com/noheropage/lets-add-venture"
