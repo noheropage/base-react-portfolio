@@ -1,29 +1,7 @@
-# React Nice Resume :page_with_curl:
+# Portfolio with React
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+## Description
+Using Create React App and a template I've developed a portfolio to showcase some of my unique abilities and projects. The modern design and sleek structure are eye catching while also presenting an opportunity to see how some of the experts use React. Components were changed to add some different styles as well as introduce React-bootstrap components to the project area.
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
-
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
-
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
-# Run Project
-### 1. Clone the project
-
-### 2. Run the project
-```shell
-npm i
-npm start
-```
-
-### 3. Build
-```shell
-npm run build
-```
+## Screenshot
+![Home Screenshot](/public/images/portfolio_screenshot.png)
