@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"Page Black",
+    "description":"I am a registered-nurse turned web-developer, looking to combine my health-knowledge with my love of technology to ideally make the world at least a bit better",
+    "image":"profilepic.jpg",
+    "bio":"If this last year has taught us anything, it's that we need more medical knowledge in every industry, not just healthcare. I'm excited to begin my transition into the world of computer science and continue developing my skills within more professional settings. I have experience with Javascript, React, Node/Express, JQuery, MySQL, NoSQL, Python, and C#.",
+    "contactmessage":"I'd love to hear from you!",
+    "email": "mursepage@gmail.com",
+    "phone": "217-357-1832",
+    "github":"https://github.com/noheropage",
+    "address":{
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98115"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1-nuPH9oGyus_pyaq4EQGcBDwX0kXyNor/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/noheropage",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/page-black",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/noheropage",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Washington ",
+        "degree":"Full Stack Coding Course",
+        "graduated":"June 2021",
+        "description":"Six month \"bootcamp\" styled program with multiple solo and group projects, using: Javascript, React, Node, Express, MySQL, & NoSQL. Served as Project Manager for two group-projects containing four other students."
+      },
+      {
+        "school":"University of Washington",
+        "degree":"Bachelor of Science in Nursing",
+        "graduated":"June 2016",
+        "description":"Emphasis on critical thinking, leadership, and research. Updated the Position Paper on Workplace Violence for the Washington State Nurses Association"
+      }
+    ],
+    "work":[
+      {
+        "company":"Hotlink HR",
+        "title":"Developer",
+        "years":"June 2021 - Present",
+        "description":"Complete reconfiguration of the new employee onboarding process via the ASP.NET framework"
+      },
+      {
+        "company":"Swedish Medical Center",
+        "title":"Registered Nurse",
+        "years":"July 2015 - October 2020",
+        "description":"Bedside nurse in a fast-paced post-operative and medical-unit. Collaberated with a multidisciplinary team to delivery high-quality, evidence based interventions to adult patients. Served as \"tech guru\" for multiple committees and programs, including the Evidence Based Practice Committee and as a Unit Based Education Champion. Developed SharePoint and Yammer sites for multiple groups. Guided other bedside nurses through software and device updates and changes"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Let's Venture",
+        "category":"React app to help like-minded and similarly skilled outdoorsy folks find each other, find new climbs, and find new friends.",
+        "image":"letsAddVenture.jpg",
+        "url":"https://github.com/noheropage/lets-add-venture"
+      },
+      {
+        "title":"Budget Tracker",
+        "category":"A simple budget tracker with offline and online functionality through IndexDB",
+        "image":"budgetTracker.png",
+        "url":"https://blooming-basin-50325.herokuapp.com/"
+      },
+      {
+        "title":"Tech Blog",
+        "category":"Sequelize-based website allowing users to share information",
+        "image":"techBlog.png",
+        "url":"https://secret-lowlands-04347.herokuapp.com/"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"Using Mongo for tracking and graphing workout data",
+        "image":"workout.png",
+        "url":"https://enigmatic-ocean-16729.herokuapp.com/"
+      },
+      {
+        "title":"GermPod",
+        "category":"Social platform to assist in creating Germ Pods to maximize socialization while minimizing the risk of contracting communicable diseases",
+        "image":"GermPod.png",
+        "url":"https://hidden-island-12801.herokuapp.com/"
+      },
+      {
+        "title":"Okie Dokie Karaoke",
+        "category":"Places youtube music videos and the lyrics in one place for karaoke practice or spontaneous singing performances anywhere you go",
+        "image":"karaoke.png",
+        "url":"https://rikioh.github.io/room3miniproject1/"
+      }
+    ]
+  }
+}
